@@ -166,6 +166,7 @@ def main() -> None:
         currentPlayer, nextPlayer = nextPlayer, currentPlayer
 
     print('Thanks for playing! 😊\n')
+    os.system('pause')
 
 
 if __name__ == '__main__':

@@ -1,0 +1,6 @@
+venv
+.vscode
+__pycache__
+circlex/__pycache__
+circlex/resources/
+circlex/bin
